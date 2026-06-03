@@ -1,8 +1,8 @@
 # Vehicle Dynamics, Traction, and Aerodynamic Performance Simulator
 
-A MATLAB-based vehicle dynamics simulator developed to analyze weight transfer, traction characteristics, aerodynamic loading, and vehicle performance limits using first-principles engineering models.
+A MATLAB based vehicle dynamics simulator developed to analyze weight transfer, traction characteristics, aerodynamic loading, and vehicle performance limits using first principles engineering models.
 
-The simulator supports multiple vehicle configurations, including Formula 1, Formula Student, Hatchbacks, SUVs, and custom user-defined vehicles.
+The simulator supports multiple vehicle configurations, including Formula 1, Formula Student, Hatchbacks, SUVs, and custom user defined vehicles.
 
 ---
 
@@ -22,14 +22,14 @@ The simulator supports multiple vehicle configurations, including Formula 1, For
 
 ## Vehicle Configurations
 
-The simulator includes pre-configured vehicle models:
+The simulator includes pre configured vehicle models:
 
 - Formula 1
 - Formula Student
 - Hatchback
 - SUV
 
-Users can also define custom vehicles by specifying vehicle parameters.
+Users can also define custom vehicles and modify the 4 existing models by specifying/chaning vehicle parameters.
 
 ---
 
@@ -56,13 +56,13 @@ Fd = 0.5ρCdAv²
 
 Fl = 0.5ρClAv²
 
-### Power-Limited Top Speed
+### Power Limited Top Speed
 
 Top speed is estimated by equating aerodynamic power demand with available engine power.
 
 ---
 
-## Sample Results
+## Sample Results - For Formula Student
 
 ### Weight Transfer Analysis
 
