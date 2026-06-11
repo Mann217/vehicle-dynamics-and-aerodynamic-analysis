@@ -4,7 +4,7 @@ switch choice
 
     case 1
 
-        vehicle.name = 'F1';
+        vehicle.name = 'Formula One';
         vehicle.mass = 798;
         vehicle.wheelbase = 3.60;
         vehicle.cg = 0.30;
